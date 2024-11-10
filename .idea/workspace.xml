@@ -5,56 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5a2ea08-ac54-4e15-9739-33195a68bb30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/Drag--Drop-Upload-Form-1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/Drag--Drop-Upload-Form.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/Drag-Drop-File-Input-Upload.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/Hero-Clean-images.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/Login-Form-Basic-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/untitled.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/brands/apple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/brands/facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/brands/google.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/brands/microsoft.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/brands/twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/solarizedbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/team/avatar2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/team/avatar4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/team/avatar5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/bold-and-dark.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/decloud-web.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/styles.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Alatsi-03bc6b7e22755b91ac9e11f52cb21d49.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Alatsi-06649cd1887b33b92b026c9ba3067fac.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Alatsi-a809bbcebff1b9584d9a33f2b3c4e82d.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Alatsi-c953625adc1026d80510760e651ccfa3.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Aldrich-6a73096fe2936226a0d81183c284eb72.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Inter-1b621eda4be3428e50a0ee070c09005b.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Inter-501638185f142ea970e06ff6a896cf44.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Inter-69c9fb2f299f5f5be8d2800cd24271f9.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Inter-6b97bb4aa11fb6d8c29b378b87c8ce45.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Inter-8b0bd5934b903f2631853751aedf28a6.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Inter-8d07e5f373f5bb3603b3e139f63e3386.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Inter-8e1d10adf40d7223fbee98b930853a8a.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Inter-991ff15c49155ffbda53e3aa14ecb8b6.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Inter-9f11e6095a39b5e188d6a081f05299fb.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Inter-aa0964911973a0fbaf081bae32a490f3.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Inter-c0b8741a9d891c8088e6db8ca3a4b5fa.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Inter-d48b1d4d308900f0591fb3bdcf442fdf.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Inter-d845be6713e4acd3766e1f8f6418c97e.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Inter-db78de5246196d0d93187248cbebc6c2.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/script.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/explorer.html" beforeDir="false" afterPath="$PROJECT_DIR$/explorer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/pricing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/upload.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,30 +17,37 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2oeqlYDa2ksC5Kck4AeADshVJxk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/saury/Downloads/decloud-web",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/saury/Downloads/decloud-web&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -101,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731240540747</updated>
-      <workItem from="1731240541821" duration="960000" />
+      <workItem from="1731240541821" duration="4491000" />
     </task>
     <servers />
   </component>
